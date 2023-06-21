@@ -1,0 +1,1414 @@
+{
+    "name": "Wo hu cang long",
+    "year": "2000",
+    "type": "Action, Adventure, Drama",
+    "rating": "7.9",
+    "director": "Ang Lee",
+    "actors": [
+        "Chow Yun-Fat",
+        "Michelle Yeoh",
+        "Ziyi Zhang",
+        "Chang Chen"
+    ],
+    "votes": "276,001",
+    "page_link": "https://www.imdb.com/title/tt0190332/"
+}, {
+    "name": "Ip Man",
+    "year": "2008",
+    "type": "Action, Biography, Drama",
+    "rating": "8",
+    "director": "Wilson Yip",
+    "actors": [
+        "Donnie Yen",
+        "Simon Yam",
+        "Siu-Wong Fan",
+        "Ka-Tung Lam"
+    ],
+    "votes": "59",
+    "page_link": "https://www.imdb.com/title/tt1220719/"
+}, {
+    "name": "Ying xiong",
+    "year": "2002",
+    "type": "Action, Adventure, Drama",
+    "rating": "7.9",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Jet Li",
+        "Tony Leung Chiu-wai",
+        "Maggie Cheung",
+        "Ziyi Zhang"
+    ],
+    "votes": "184,622",
+    "page_link": "https://www.imdb.com/title/tt0299977/"
+}, {
+    "name": "Fa yeung nin wah",
+    "year": "2000",
+    "type": "Drama, Romance",
+    "rating": "8.1",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Tony Leung Chiu-wai",
+        "Maggie Cheung",
+        "Siu Ping-Lam",
+        "Tung Cho 'Joe' Cheung"
+    ],
+    "votes": "157,319",
+    "page_link": "https://www.imdb.com/title/tt0118694/"
+}, {
+    "name": "Kung fu",
+    "year": "2004",
+    "type": "Action, Comedy, Fantasy",
+    "rating": "7.7",
+    "director": "Stephen Chow",
+    "actors": [
+        "Stephen Chow",
+        "Wah Yuen",
+        "Qiu Yuen",
+        "Siu-Lung Leung"
+    ],
+    "votes": "144,932",
+    "page_link": "https://www.imdb.com/title/tt0373074/"
+}, {
+    "name": "Mou gaan dou",
+    "year": "2002",
+    "type": "Action, Crime, Drama",
+    "rating": "8",
+    "director": "Andrew Lau",
+    "actors": [
+        "Alan Mak",
+        "Andy Lau",
+        "Tony Leung Chiu-wai",
+        "Anthony Chau-Sang Wong",
+        "Eric Tsang"
+    ],
+    "votes": "127,848",
+    "page_link": "https://www.imdb.com/title/tt0338564/"
+}, {
+    "name": "Shi mian mai fu",
+    "year": "2004",
+    "type": "Action, Adventure, Drama",
+    "rating": "7.5",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Ziyi Zhang",
+        "Takeshi Kaneshiro",
+        "Andy Lau",
+        "Dandan Song"
+    ],
+    "votes": "114,412",
+    "page_link": "https://www.imdb.com/title/tt0385004/"
+}, {
+    "name": "Yip Man 2",
+    "year": "2010",
+    "type": "Action, Biography, Drama",
+    "rating": "7.5",
+    "director": "Wilson Yip",
+    "actors": [
+        "Donnie Yen",
+        "Xiaoming Huang",
+        "Sammo Kam-Bo Hung",
+        "Lynn Xiong"
+    ],
+    "votes": "108,310",
+    "page_link": "https://www.imdb.com/title/tt1386932/"
+}, {
+    "name": "Siu Lam juk kau",
+    "year": "2001",
+    "type": "Action, Comedy, Fantasy",
+    "rating": "7.3",
+    "director": "Stephen Chow",
+    "actors": [
+        "Stephen Chow",
+        "Wei Zhao",
+        "Yat-Fei Wong",
+        "Man-Tat Ng"
+    ],
+    "votes": "84,321",
+    "page_link": "https://www.imdb.com/title/tt0286112/"
+}, {
+    "name": "Huo Yuan Jia",
+    "year": "2006",
+    "type": "Action, Biography, Drama",
+    "rating": "7.6",
+    "director": "Ronny Yu",
+    "actors": [
+        "Jet Li",
+        "Li Sun",
+        "Yong Dong",
+        "Yun Qu"
+    ],
+    "votes": "77,490",
+    "page_link": "https://www.imdb.com/title/tt0446059/"
+}, {
+    "name": "Chung Hing sam lam",
+    "year": "1994",
+    "type": "Comedy, Crime, Drama",
+    "rating": "8",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Brigitte Lin",
+        "Takeshi Kaneshiro",
+        "Tony Leung Chiu-wai",
+        "Faye Wong"
+    ],
+    "votes": "88,371",
+    "page_link": "https://www.imdb.com/title/tt0109424/"
+}, {
+    "name": "The Farewell",
+    "year": "2019",
+    "type": "Comedy, Drama",
+    "rating": "7.5",
+    "director": "Lulu Wang",
+    "actors": [
+        "Shuzhen Zhao",
+        "Awkwafina",
+        "X Mayo",
+        "Hong Lu"
+    ],
+    "votes": "67,482",
+    "page_link": "https://www.imdb.com/title/tt8637428/"
+}, {
+    "name": "2046",
+    "year": "2004",
+    "type": "Drama, Romance, Sci-Fi",
+    "rating": "7.4",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Tony Leung Chiu-wai",
+        "Ziyi Zhang",
+        "Faye Wong",
+        "Gong Li"
+    ],
+    "votes": "59,636",
+    "page_link": "https://www.imdb.com/title/tt0212712/"
+}, {
+    "name": "Yip Man 3",
+    "year": "2015",
+    "type": "Action, Biography, Drama",
+    "rating": "7",
+    "director": "Wilson Yip",
+    "actors": [
+        "Donnie Yen",
+        "Lynn Xiong",
+        "Jin Zhang",
+        "Mike Tyson"
+    ],
+    "votes": "58,005",
+    "page_link": "https://www.imdb.com/title/tt2888046/"
+}, {
+    "name": "Lat sau san taam",
+    "year": "1992",
+    "type": "Action, Crime, Thriller",
+    "rating": "7.7",
+    "director": "John Woo",
+    "actors": [
+        "Chow Yun-Fat",
+        "Tony Leung Chiu-wai",
+        "Teresa Mo",
+        "Philip Chan"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0104684/"
+}, {
+    "name": "Dip huet seung hung",
+    "year": "1989",
+    "type": "Action, Crime, Drama",
+    "rating": "7.8",
+    "director": "John Woo",
+    "actors": [
+        "Chow Yun-Fat",
+        "Danny Lee",
+        "Sally Yeh",
+        "Kong Chu"
+    ],
+    "votes": "82",
+    "page_link": "https://www.imdb.com/title/tt0097202/"
+}, {
+    "name": "Chi bi",
+    "year": "2008",
+    "type": "Action, Adventure, Drama",
+    "rating": "7.3",
+    "director": "John Woo",
+    "actors": [
+        "Tony Leung Chiu-wai",
+        "Takeshi Kaneshiro",
+        "Fengyi Zhang",
+        "Chang Chen"
+    ],
+    "votes": "47,405",
+    "page_link": "https://www.imdb.com/title/tt0425637/"
+}, {
+    "name": "Jui kuen II",
+    "year": "1994",
+    "type": "Action, Comedy",
+    "rating": "7.5",
+    "director": "Chia-Liang Liu",
+    "actors": [
+        "Jackie Chan",
+        "Jackie Chan",
+        "Ho-Sung Pak",
+        "Lung Ti",
+        "Anita Mui"
+    ],
+    "votes": "47,552",
+    "page_link": "https://www.imdb.com/title/tt0111512/"
+}, {
+    "name": "Man cheng jin dai huang jin jia",
+    "year": "2006",
+    "type": "Action, Drama, Romance",
+    "rating": "7",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Chow Yun-Fat",
+        "Gong Li",
+        "Jay Chou",
+        "Ye Liu"
+    ],
+    "votes": "45,144",
+    "page_link": "https://www.imdb.com/title/tt0473444/"
+}, {
+    "name": "Se, jie",
+    "year": "2007",
+    "type": "Drama, History, Romance",
+    "rating": "7.5",
+    "director": "Ang Lee",
+    "actors": [
+        "Tony Leung Chiu-wai",
+        "Tang Wei",
+        "Joan Chen",
+        "Leehom Wang"
+    ],
+    "votes": "43,755",
+    "page_link": "https://www.imdb.com/title/tt0808357/"
+}, {
+    "name": "Jui kuen",
+    "year": "1978",
+    "type": "Action, Comedy",
+    "rating": "7.4",
+    "director": "Woo-Ping Yuen",
+    "actors": [
+        "Jackie Chan",
+        "Siu-Tin Yuen",
+        "Jeong-lee Hwang",
+        "Dean Shek"
+    ],
+    "votes": "68",
+    "page_link": "https://www.imdb.com/title/tt0080179/"
+}, {
+    "name": "Meng long guo jiang",
+    "year": "1972",
+    "type": "Action, Adventure, Comedy",
+    "rating": "7.2",
+    "director": "Bruce Lee",
+    "actors": [
+        "Bruce Lee",
+        "Chuck Norris",
+        "Nora Miao",
+        "Ping-Ou Wei"
+    ],
+    "votes": "39,082",
+    "page_link": "https://www.imdb.com/title/tt0068935/"
+}, {
+    "name": "Do lok tin si",
+    "year": "1995",
+    "type": "Comedy, Crime, Drama",
+    "rating": "7.6",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Leon Lai",
+        "Michelle Reis",
+        "Takeshi Kaneshiro",
+        "Charlie Yeung"
+    ],
+    "votes": "71",
+    "page_link": "https://www.imdb.com/title/tt0112913/"
+}, {
+    "name": "Ging chaat goo si",
+    "year": "1985",
+    "type": "Action, Comedy, Crime",
+    "rating": "7.5",
+    "director": "Jackie Chan",
+    "actors": [
+        "Chi-Hwa Chen",
+        "Jackie Chan",
+        "Maggie Cheung",
+        "Brigitte Lin",
+        "Yuen Chor"
+    ],
+    "votes": "39,235",
+    "page_link": "https://www.imdb.com/title/tt0089374/"
+}, {
+    "name": "Yip Man chin chyun",
+    "year": "2010",
+    "type": "Action, Biography, Drama",
+    "rating": "7",
+    "director": "Herman Yau",
+    "actors": [
+        "Yu-Hang To",
+        "Yi Huang",
+        "Biao Yuen",
+        "Siu-Wong Fan"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt1641638/"
+}, {
+    "name": "Da hong denglong gaogao gua",
+    "year": "1991",
+    "type": "Drama, Romance",
+    "rating": "8.1",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Gong Li",
+        "Jingwu Ma",
+        "Saifei He",
+        "Cuifen Cao"
+    ],
+    "votes": "34,013",
+    "page_link": "https://www.imdb.com/title/tt0101640/"
+}, {
+    "name": "Jing wu men",
+    "year": "1972",
+    "type": "Action, Drama, Romance",
+    "rating": "7.2",
+    "director": "Wei Lo",
+    "actors": [
+        "Bruce Lee",
+        "Nora Miao",
+        "James Tien",
+        "Maria Yi"
+    ],
+    "votes": "32,116",
+    "page_link": "https://www.imdb.com/title/tt0068767/"
+}, {
+    "name": "Ba wang bie ji",
+    "year": "1993",
+    "type": "Drama, Music, Romance",
+    "rating": "8.1",
+    "director": "Kaige Chen",
+    "actors": [
+        "Leslie Cheung",
+        "Fengyi Zhang",
+        "Gong Li",
+        "You Ge"
+    ],
+    "votes": "30,969",
+    "page_link": "https://www.imdb.com/title/tt0106332/"
+}, {
+    "name": "Chun gwong cha sit",
+    "year": "1997",
+    "type": "Drama, Romance",
+    "rating": "7.7",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Leslie Cheung",
+        "Tony Leung Chiu-wai",
+        "Chang Chen",
+        "Gregory Dayton"
+    ],
+    "votes": "31,810",
+    "page_link": "https://www.imdb.com/title/tt0118845/"
+}, {
+    "name": "Tau ming chong",
+    "year": "2007",
+    "type": "Action, Adventure, Drama",
+    "rating": "7",
+    "director": "Peter Ho-Sun Chan",
+    "actors": [
+        "Wai-Man Yip",
+        "Jet Li",
+        "Andy Lau",
+        "Takeshi Kaneshiro",
+        "Jinglei Xu"
+    ],
+    "votes": "27,398",
+    "page_link": "https://www.imdb.com/title/tt0913968/"
+}, {
+    "name": "San ging chaat goo si",
+    "year": "2004",
+    "type": "Action, Crime, Thriller",
+    "rating": "6.9",
+    "director": "Benny Chan",
+    "actors": [
+        "Jackie Chan",
+        "Nicholas Tse",
+        "Charlie Yeung",
+        "Daniel Wu"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0386005/"
+}, {
+    "name": "Tang shan da xiong",
+    "year": "1971",
+    "type": "Action, Crime, Drama",
+    "rating": "6.9",
+    "director": "Wei Lo",
+    "actors": [
+        "Chia-Hsiang Wu",
+        "Bruce Lee",
+        "Maria Yi",
+        "James Tien",
+        "Marilyn Bautista"
+    ],
+    "votes": "28,226",
+    "page_link": "https://www.imdb.com/title/tt0067824/"
+}, {
+    "name": "Chi bi: Jue zhan tian xia",
+    "year": "2009",
+    "type": "Action, Adventure, Drama",
+    "rating": "7.5",
+    "director": "John Woo",
+    "actors": [
+        "Tony Leung Chiu-wai",
+        "Takeshi Kaneshiro",
+        "Fengyi Zhang",
+        "Chang Chen"
+    ],
+    "votes": "24,823",
+    "page_link": "https://www.imdb.com/title/tt1326972/"
+}, {
+    "name": "Jing wu ying xiong",
+    "year": "1994",
+    "type": "Action, Drama",
+    "rating": "7.5",
+    "director": "Gordon Chan",
+    "actors": [
+        "Jet Li",
+        "Shinobu Nakayama",
+        "Siu-Ho Chin",
+        "Billy Chow"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0110200/"
+}, {
+    "name": "Yi yi",
+    "year": "2000",
+    "type": "Drama, Romance",
+    "rating": "8.1",
+    "director": "Edward Yang",
+    "actors": [
+        "Nien-Jen Wu",
+        "Elaine Jin",
+        "Issei Ogata",
+        "Kelly Lee"
+    ],
+    "votes": "26,358",
+    "page_link": "https://www.imdb.com/title/tt0244316/"
+}, {
+    "name": "Ying hung boon sik",
+    "year": "1986",
+    "type": "Action, Crime, Drama",
+    "rating": "7.4",
+    "director": "John Woo",
+    "actors": [
+        "Lung Ti",
+        "Leslie Cheung",
+        "Chow Yun-Fat",
+        "Emily Chu"
+    ],
+    "votes": "78",
+    "page_link": "https://www.imdb.com/title/tt0092263/"
+}, {
+    "name": "Ah fei jing juen",
+    "year": "1990",
+    "type": "Crime, Drama, Romance",
+    "rating": "7.4",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Leslie Cheung",
+        "Maggie Cheung",
+        "Andy Lau",
+        "Carina Lau"
+    ],
+    "votes": "23,948",
+    "page_link": "https://www.imdb.com/title/tt0101258/"
+}, {
+    "name": "Yin shi nan nu",
+    "year": "1994",
+    "type": "Comedy, Drama, Romance",
+    "rating": "7.8",
+    "director": "Ang Lee",
+    "actors": [
+        "Sihung Lung",
+        "Kuei-Mei Yang",
+        "Yu-Wen Wang",
+        "Chien-Lien Wu"
+    ],
+    "votes": "22,220",
+    "page_link": "https://www.imdb.com/title/tt0111797/"
+}, {
+    "name": "Fei ying gai wak",
+    "year": "1991",
+    "type": "Action, Adventure, Comedy",
+    "rating": "7.2",
+    "director": "Jackie Chan",
+    "actors": [
+        "Jackie Chan",
+        "Carol 'Do Do' Cheng",
+        "Eva Cobo",
+        "Sh\u00f4ko Ikeda"
+    ],
+    "votes": "21,703",
+    "page_link": "https://www.imdb.com/title/tt0099558/"
+}, {
+    "name": "Sam gang 2",
+    "year": "2004",
+    "type": "Horror",
+    "rating": "6.9",
+    "director": "Fruit Chan",
+    "actors": [
+        "Park Chan-wook",
+        "Takashi Miike",
+        "Bai Ling",
+        "Lee Byung-hun",
+        "Kyoko Hasegawa",
+        "Pauline Lau"
+    ],
+    "votes": "20,377",
+    "page_link": "https://www.imdb.com/title/tt0420251/"
+}, {
+    "name": "Lung hing foo dai",
+    "year": "1986",
+    "type": "Action, Adventure, Comedy",
+    "rating": "6.9",
+    "director": "Jackie Chan",
+    "actors": [
+        "Eric Tsang",
+        "Jackie Chan",
+        "Alan Tam",
+        "Lola Forner",
+        "Rosamund Kwan"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0091431/"
+}, {
+    "name": "Ging chaat goo si juk jaap",
+    "year": "1988",
+    "type": "Action, Comedy, Crime",
+    "rating": "7.1",
+    "director": "Jackie Chan",
+    "actors": [
+        "Jackie Chan",
+        "Maggie Cheung",
+        "Kwok-Hung Lam",
+        "Bill Tung"
+    ],
+    "votes": "68",
+    "page_link": "https://www.imdb.com/title/tt0095403/"
+}, {
+    "name": "Wong Fei Hung",
+    "year": "1991",
+    "type": "Action, Adventure, Drama",
+    "rating": "7.2",
+    "director": "Hark Tsui",
+    "actors": [
+        "Jet Li",
+        "Rosamund Kwan",
+        "Biao Yuen",
+        "Jacky Cheung"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0103285/"
+}, {
+    "name": "Mou gaan dou II",
+    "year": "2003",
+    "type": "Action, Crime, Drama",
+    "rating": "7.3",
+    "director": "Andrew Lau",
+    "actors": [
+        "Alan Mak",
+        "Edison Chen",
+        "Shawn Yue",
+        "Anthony Chau-Sang Wong",
+        "Francis Ng"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0369060/"
+}, {
+    "name": "Huo zhe",
+    "year": "1994",
+    "type": "Drama, War",
+    "rating": "8.3",
+    "director": "Yimou Zhang",
+    "actors": [
+        "You Ge",
+        "Gong Li",
+        "Ben Niu",
+        "Wu Jiang"
+    ],
+    "votes": "19,387",
+    "page_link": "https://www.imdb.com/title/tt0110081/"
+}, {
+    "name": "Siu nin Wong Fei Hung chi: Tit ma lau",
+    "year": "1993",
+    "type": "Action, Crime, Drama",
+    "rating": "7.5",
+    "director": "Woo-Ping Yuen",
+    "actors": [
+        "Rongguang Yu",
+        "Donnie Yen",
+        "Jean Wang",
+        "Sze-Man Tsang"
+    ],
+    "votes": "16,851",
+    "page_link": "https://www.imdb.com/title/tt0108148/"
+}, {
+    "name": "Shao Lin san shi liu fang",
+    "year": "1978",
+    "type": "Action, Adventure, Drama",
+    "rating": "7.6",
+    "director": "Chia-Liang Liu",
+    "actors": [
+        "Chia-Hui Liu",
+        "Lieh Lo",
+        "Yue Wong",
+        "Chia-Yung Liu"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0078243/"
+}, {
+    "name": "Wu xia",
+    "year": "2011",
+    "type": "Action, Crime, Drama",
+    "rating": "7",
+    "director": "Peter Ho-Sun Chan",
+    "actors": [
+        "Donnie Yen",
+        "Takeshi Kaneshiro",
+        "Tang Wei",
+        "Jia-Min Li"
+    ],
+    "votes": "15,367",
+    "page_link": "https://www.imdb.com/title/tt1718199/"
+}, {
+    "name": "Xi yan",
+    "year": "1993",
+    "type": "Comedy, Drama, Romance",
+    "rating": "7.6",
+    "director": "Ang Lee",
+    "actors": [
+        "Winston Chao",
+        "May Chin",
+        "Ah-Lei Gua",
+        "Sihung Lung"
+    ],
+    "votes": "16,384",
+    "page_link": "https://www.imdb.com/title/tt0107156/"
+}, {
+    "name": "Wo de fu qin mu qin",
+    "year": "1999",
+    "type": "Drama, Romance",
+    "rating": "7.8",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Ziyi Zhang",
+        "Honglei Sun",
+        "Hao Zheng",
+        "Yulian Zhao"
+    ],
+    "votes": "13,615",
+    "page_link": "https://www.imdb.com/title/tt0235060/"
+}, {
+    "name": "Dung che sai duk",
+    "year": "1994",
+    "type": "Action, Drama",
+    "rating": "7",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Brigitte Lin",
+        "Maggie Cheung",
+        "Leslie Cheung",
+        "Tony Leung Chiu-wai"
+    ],
+    "votes": "16,258",
+    "page_link": "https://www.imdb.com/title/tt0109688/"
+}, {
+    "name": "Lik wong",
+    "year": "1991",
+    "type": "Action, Comedy, Crime",
+    "rating": "7",
+    "director": "Ngai Choi Lam",
+    "actors": [
+        "Siu-Wong Fan",
+        "Mei Sheng Fan",
+        "Ka-Kui Ho",
+        "Yukari \u00d4shima"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0102293/"
+}, {
+    "name": "Musa",
+    "year": "2001",
+    "type": "Action, Drama, History",
+    "rating": "7.2",
+    "director": "Sung-su Kim",
+    "actors": [
+        "Jung Woo-sung",
+        "Sung-Ki Ahn",
+        "Ju Jin-Mo",
+        "Ziyi Zhang"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0275083/"
+}, {
+    "name": "Xin Su shi jian",
+    "year": "2009",
+    "type": "Action, Crime, Drama",
+    "rating": "6.9",
+    "director": "Tung-Shing Yee",
+    "actors": [
+        "Jackie Chan",
+        "Naoto Takenaka",
+        "Daniel Wu",
+        "Jinglei Xu"
+    ],
+    "votes": "63",
+    "page_link": "https://www.imdb.com/title/tt1075419/"
+}, {
+    "name": "Saat po long",
+    "year": "2005",
+    "type": "Action, Crime, Thriller",
+    "rating": "6.9",
+    "director": "Wilson Yip",
+    "actors": [
+        "Donnie Yen",
+        "Simon Yam",
+        "Sammo Kam-Bo Hung",
+        "Jing Wu"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0478024/"
+}, {
+    "name": "Nanjing! Nanjing!",
+    "year": "2009",
+    "type": "Drama, History, War",
+    "rating": "7.7",
+    "director": "Chuan Lu",
+    "actors": [
+        "Ye Liu",
+        "Wei Fan",
+        "Hideo Nakaizumi",
+        "Yuanyuan Gao"
+    ],
+    "votes": "11,381",
+    "page_link": "https://www.imdb.com/title/tt1124052/"
+}, {
+    "name": "Fai caan che",
+    "year": "1984",
+    "type": "Action, Comedy, Crime",
+    "rating": "7",
+    "director": "Sammo Kam-Bo Hung",
+    "actors": [
+        "Jackie Chan",
+        "Biao Yuen",
+        "Sammo Kam-Bo Hung",
+        "Benny Urquidez"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0087578/"
+}, {
+    "name": "Se ying diu sau",
+    "year": "1978",
+    "type": "Action, Comedy",
+    "rating": "7.3",
+    "director": "Woo-Ping Yuen",
+    "actors": [
+        "Jackie Chan",
+        "Siu-Tin Yuen",
+        "Jeong-lee Hwang",
+        "Dean Shek"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0078252/"
+}, {
+    "name": "Dip huet gai tau",
+    "year": "1990",
+    "type": "Action, Crime, Drama",
+    "rating": "7.5",
+    "director": "John Woo",
+    "actors": [
+        "Tony Leung Chiu-wai",
+        "Jacky Cheung",
+        "Waise Lee",
+        "Simon Yam"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0099426/"
+}, {
+    "name": "Ying",
+    "year": "2018",
+    "type": "Action, Adventure, Fantasy",
+    "rating": "7",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Chao Deng",
+        "Li Sun",
+        "Ryan Zheng",
+        "Qianyuan Wang"
+    ],
+    "votes": "17,178",
+    "page_link": "https://www.imdb.com/title/tt6864046/"
+}, {
+    "name": "Tai gik Cheung Sam Fung",
+    "year": "1993",
+    "type": "Action, Comedy, Drama",
+    "rating": "7.2",
+    "director": "Woo-Ping Yuen",
+    "actors": [
+        "Jet Li",
+        "Michelle Yeoh",
+        "Siu-Ho Chin",
+        "Fennie Yuen"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0108281/"
+}, {
+    "name": "Hak se wooi",
+    "year": "2005",
+    "type": "Crime, Drama, Thriller",
+    "rating": "7.1",
+    "director": "Johnnie To",
+    "actors": [
+        "Louis Koo",
+        "Suet Lam",
+        "Tony Ka Fai Leung",
+        "Eddie Cheung"
+    ],
+    "votes": "73",
+    "page_link": "https://www.imdb.com/title/tt0434008/"
+}, {
+    "name": "Tang shan da di zhen",
+    "year": "2010",
+    "type": "Drama, History",
+    "rating": "7.5",
+    "director": "Xiaogang Feng",
+    "actors": [
+        "Daoming Chen",
+        "Chen Li",
+        "Yi Lu",
+        "Fan Xu"
+    ],
+    "votes": "9,504",
+    "page_link": "https://www.imdb.com/title/tt1393746/"
+}, {
+    "name": "Du zhan",
+    "year": "2012",
+    "type": "Action, Crime, Drama",
+    "rating": "7",
+    "director": "Johnnie To",
+    "actors": [
+        "Louis Koo",
+        "Honglei Sun",
+        "Yi Huang",
+        "Michelle Ye"
+    ],
+    "votes": "10,575",
+    "page_link": "https://www.imdb.com/title/tt2165735/"
+}, {
+    "name": "Wong Fei Hung II: Nam yee tung chi keung",
+    "year": "1992",
+    "type": "Action, Adventure, Biography",
+    "rating": "7.3",
+    "director": "Hark Tsui",
+    "actors": [
+        "Jet Li",
+        "Rosamund Kwan",
+        "Siu Chung Mok",
+        "David Chiang"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0105839/"
+}, {
+    "name": "Ying hung boon sik II",
+    "year": "1987",
+    "type": "Action, Crime, Drama",
+    "rating": "7.2",
+    "director": "John Woo",
+    "actors": [
+        "Leslie Cheung",
+        "Chow Yun-Fat",
+        "Lung Ti",
+        "Dean Shek"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0094357/"
+}, {
+    "name": "Tian zhu ding",
+    "year": "2013",
+    "type": "Action, Drama",
+    "rating": "7.1",
+    "director": "Zhangke Jia",
+    "actors": [
+        "Wu Jiang",
+        "Baoqiang Wang",
+        "Tao Zhao",
+        "Lanshan Luo"
+    ],
+    "votes": "12,263",
+    "page_link": "https://www.imdb.com/title/tt2852400/"
+}, {
+    "name": "Fong juk",
+    "year": "2006",
+    "type": "Action, Crime, Thriller",
+    "rating": "7.2",
+    "director": "Johnnie To",
+    "actors": [
+        "Nick Cheung",
+        "Anthony Chau-Sang Wong",
+        "Francis Ng",
+        "Simon Yam"
+    ],
+    "votes": "9,395",
+    "page_link": "https://www.imdb.com/title/tt0796212/"
+}, {
+    "name": "Sien lui yau wan",
+    "year": "1987",
+    "type": "Action, Fantasy, Horror",
+    "rating": "7.4",
+    "director": "Siu-Tung Ching",
+    "actors": [
+        "Leslie Cheung",
+        "Joey Wang",
+        "Wu Ma",
+        "Wai Lam"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0093978/"
+}, {
+    "name": "Yi ge dou bu neng shao",
+    "year": "1999",
+    "type": "Drama",
+    "rating": "7.7",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Minzhi Wei",
+        "Huike Zhang",
+        "Zhenda Tian",
+        "Enman Gao"
+    ],
+    "votes": "9,048",
+    "page_link": "https://www.imdb.com/title/tt0209189/"
+}, {
+    "name": "'A' gai wak 2",
+    "year": "1987",
+    "type": "Action, Comedy, Crime",
+    "rating": "7",
+    "director": "Jackie Chan",
+    "actors": [
+        "Jackie Chan",
+        "Maggie Cheung",
+        "Rosamund Kwan",
+        "Carina Lau"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0092501/"
+}, {
+    "name": "Rang zi dan fei",
+    "year": "2010",
+    "type": "Action, Comedy, Drama",
+    "rating": "7.3",
+    "director": "Wen Jiang",
+    "actors": [
+        "Chow Yun-Fat",
+        "Wen Jiang",
+        "You Ge",
+        "Carina Lau"
+    ],
+    "votes": "12,404",
+    "page_link": "https://www.imdb.com/title/tt1533117/"
+}, {
+    "name": "Na xie nian, wo men yi qi zhui de nu hai",
+    "year": "2011",
+    "type": "Comedy, Drama, Romance",
+    "rating": "7.6",
+    "director": "Giddens Ko",
+    "actors": [
+        "Kai Ko",
+        "Michelle Chen",
+        "Shao-Wen Hao",
+        "Owodog"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt2036416/"
+}, {
+    "name": "Sik san",
+    "year": "1996",
+    "type": "Action, Comedy, Fantasy",
+    "rating": "7.3",
+    "director": "Stephen Chow",
+    "actors": [
+        "Lik-Chi Lee",
+        "Stephen Chow",
+        "Karen Mok",
+        "Vincent Kok",
+        "Man-Tat Ng"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0116426/"
+}, {
+    "name": "Wong Gok ka moon",
+    "year": "1988",
+    "type": "Crime, Drama, Romance",
+    "rating": "7",
+    "director": "Kar-Wai Wong",
+    "actors": [
+        "Andy Lau",
+        "Maggie Cheung",
+        "Jacky Cheung",
+        "Alex Man"
+    ],
+    "votes": "11,649",
+    "page_link": "https://www.imdb.com/title/tt0096461/"
+}, {
+    "name": "Fong Sai Yuk",
+    "year": "1993",
+    "type": "Action, Comedy, History",
+    "rating": "7.1",
+    "director": "Corey Yuen",
+    "actors": [
+        "Jet Li",
+        "Josephine Siao",
+        "Michelle Reis",
+        "Wenzhuo Zhao"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0106936/"
+}, {
+    "name": "Hong gao liang",
+    "year": "1988",
+    "type": "Drama, History, Romance",
+    "rating": "7.3",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Gong Li",
+        "Wen Jiang",
+        "Rujun Teng",
+        "Ji Liu"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0093206/"
+}, {
+    "name": "Bu Neng Shuo De. Mi Mi",
+    "year": "2007",
+    "type": "Drama, Music, Romance",
+    "rating": "7.5",
+    "director": "Jay Chou",
+    "actors": [
+        "Jay Chou",
+        "Gwei Lun-Mei",
+        "Anthony Chau-Sang Wong",
+        "Ming-Ming Su"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt1037850/"
+}, {
+    "name": "Shaonian de ni",
+    "year": "2019",
+    "type": "Crime, Drama, Romance",
+    "rating": "7.6",
+    "director": "Derek Tsang",
+    "actors": [
+        "Dongyu Zhou",
+        "Jackson Yee",
+        "Fang Yin",
+        "Ye Zhou"
+    ],
+    "votes": "83",
+    "page_link": "https://www.imdb.com/title/tt9586294/"
+}, {
+    "name": "Ju Dou",
+    "year": "1990",
+    "type": "Drama, Romance",
+    "rating": "7.6",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Fengliang Yang",
+        "Gong Li",
+        "Wei Li",
+        "Baotian Li",
+        "Zhang Yi"
+    ],
+    "votes": "8,734",
+    "page_link": "https://www.imdb.com/title/tt0099902/"
+}, {
+    "name": "San taam",
+    "year": "2007",
+    "type": "Action, Crime, Mystery",
+    "rating": "7.1",
+    "director": "Johnnie To",
+    "actors": [
+        "Ka-Fai Wai",
+        "Ching Wan Lau",
+        "Andy On",
+        "Ka-Tung Lam",
+        "Kelly Lin"
+    ],
+    "votes": "7,901",
+    "page_link": "https://www.imdb.com/title/tt0969269/"
+}, {
+    "name": "Ji jie hao",
+    "year": "2007",
+    "type": "Action, Biography, Drama",
+    "rating": "7.3",
+    "director": "Xiaogang Feng",
+    "actors": [
+        "Hanyu Zhang",
+        "Chao Deng",
+        "Wenkang Yuan",
+        "Yan Tang"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0881200/"
+}, {
+    "name": "Jing Ke ci Qin Wang",
+    "year": "1998",
+    "type": "Drama, History, Romance",
+    "rating": "7.2",
+    "director": "Kaige Chen",
+    "actors": [
+        "Gong Li",
+        "Fengyi Zhang",
+        "Zhou Sun",
+        "Xiaohe L\u00fc"
+    ],
+    "votes": "6,353",
+    "page_link": "https://www.imdb.com/title/tt0162866/"
+}, {
+    "name": "Guizi lai le",
+    "year": "2000",
+    "type": "Comedy, Drama, War",
+    "rating": "8.2",
+    "director": "Wen Jiang",
+    "actors": [
+        "Wen Jiang",
+        "Kenya Sawada",
+        "Hongbo Jiang",
+        "Teruyuki Kagawa"
+    ],
+    "votes": "8,214",
+    "page_link": "https://www.imdb.com/title/tt0245929/"
+}, {
+    "name": "Shi di chu ma",
+    "year": "1980",
+    "type": "Action, Adventure, Comedy",
+    "rating": "7.1",
+    "director": "Jackie Chan",
+    "actors": [
+        "Jackie Chan",
+        "Pai Wei",
+        "Biao Yuen",
+        "Lily Li"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0081499/"
+}, {
+    "name": "Lung foo fung wan",
+    "year": "1987",
+    "type": "Action, Crime, Drama",
+    "rating": "7",
+    "director": "Ringo Lam",
+    "actors": [
+        "Chow Yun-Fat",
+        "Yueh Sun",
+        "Danny Lee",
+        "Carrie Ng"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0093435/"
+}, {
+    "name": "Hei kek ji wong",
+    "year": "1999",
+    "type": "Comedy, Drama, Romance",
+    "rating": "7.2",
+    "director": "Stephen Chow",
+    "actors": [
+        "Lik-Chi Lee",
+        "Stephen Chow",
+        "Karen Mok",
+        "Cecilia Cheung",
+        "Man-Tat Ng"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0188766/"
+}, {
+    "name": "Hak se wui: Yi woo wai kwai",
+    "year": "2006",
+    "type": "Crime, Drama, Thriller",
+    "rating": "7.4",
+    "director": "Johnnie To",
+    "actors": [
+        "Louis Koo",
+        "Simon Yam",
+        "Nick Cheung",
+        "Ka-Tung Lam"
+    ],
+    "votes": "6,622",
+    "page_link": "https://www.imdb.com/title/tt0491244/"
+}, {
+    "name": "San xia hao ren",
+    "year": "2006",
+    "type": "Drama",
+    "rating": "7.3",
+    "director": "Zhangke Jia",
+    "actors": [
+        "Tao Zhao",
+        "Zhou Lan",
+        "Sanming Han",
+        "Lizhen Ma"
+    ],
+    "votes": "7,052",
+    "page_link": "https://www.imdb.com/title/tt0859765/"
+}, {
+    "name": "Am zin",
+    "year": "1999",
+    "type": "Action, Crime, Drama",
+    "rating": "7.3",
+    "director": "Johnnie To",
+    "actors": [
+        "Andy Lau",
+        "Ching Wan Lau",
+        "YoYo Mung",
+        "Waise Lee"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0216165/"
+}, {
+    "name": "Wu du",
+    "year": "1978",
+    "type": "Action, Drama, Mystery",
+    "rating": "7",
+    "director": "Cheh Chang",
+    "actors": [
+        "Sheng Chiang",
+        "Chien Sun",
+        "Phillip Chung-Fung Kwok",
+        "Meng Lo"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0077559/"
+}, {
+    "name": "Sai yau gei: Sin leui kei yun",
+    "year": "1995",
+    "type": "Action, Adventure, Comedy",
+    "rating": "7.8",
+    "director": "Jeffrey Lau",
+    "actors": [
+        "Stephen Chow",
+        "Man-Tat Ng",
+        "Athena Chu",
+        "Ada Choi"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0114996/"
+}, {
+    "name": "Zui hao de shi guang",
+    "year": "2005",
+    "type": "Drama, Romance",
+    "rating": "6.9",
+    "director": "Hsiao-Hsien Hou",
+    "actors": [
+        "Shu Qi",
+        "Chang Chen",
+        "Fang Mei",
+        "Shu-Chen Liao"
+    ],
+    "votes": "6,018",
+    "page_link": "https://www.imdb.com/title/tt0459666/"
+}, {
+    "name": "Yao a yao, yao dao wai po qiao",
+    "year": "1995",
+    "type": "Crime, Drama, History",
+    "rating": "7.1",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Gong Li",
+        "Baotian Li",
+        "Xiaoxiao Wang",
+        "Xuejian Li"
+    ],
+    "votes": "5,857",
+    "page_link": "https://www.imdb.com/title/tt0115012/"
+}, {
+    "name": "Sai yau gei: Yut gwong bou haap",
+    "year": "1995",
+    "type": "Action, Adventure, Comedy",
+    "rating": "7.5",
+    "director": "Jeffrey Lau",
+    "actors": [
+        "Stephen Chow",
+        "Man-Tat Ng",
+        "Kar-Ying Law",
+        "Kit Ying Lam"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0112778/"
+}, {
+    "name": "Qiu Ju da guan si",
+    "year": "1992",
+    "type": "Comedy, Drama",
+    "rating": "7.6",
+    "director": "Yimou Zhang",
+    "actors": [
+        "Gong Li",
+        "Peiqi Liu",
+        "Liuchun Yang",
+        "Kesheng Lei"
+    ],
+    "votes": "6,391",
+    "page_link": "https://www.imdb.com/title/tt0105197/"
+}, {
+    "name": "Kekexili",
+    "year": "2004",
+    "type": "Action, Drama",
+    "rating": "7.6",
+    "director": "Chuan Lu",
+    "actors": [
+        "Duobujie",
+        "Lei Zhang",
+        "Dao Qi",
+        "Xueying Zhao"
+    ],
+    "votes": "5,287",
+    "page_link": "https://www.imdb.com/title/tt0386651/"
+}, {
+    "name": "Tou ze",
+    "year": "2011",
+    "type": "Drama",
+    "rating": "7.5",
+    "director": "Ann Hui",
+    "actors": [
+        "Andy Lau",
+        "Deannie Ip",
+        "Hailu Qin",
+        "Fuli Wang"
+    ],
+    "votes": "6,131",
+    "page_link": "https://www.imdb.com/title/tt2008006/"
+}, {
+    "name": "Moon to",
+    "year": "2007",
+    "type": "Crime, Drama, Thriller",
+    "rating": "7.2",
+    "director": "Tung-Shing Yee",
+    "actors": [
+        "Andy Lau",
+        "Daniel Wu",
+        "Louis Koo",
+        "Jingchu Zhang"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt0841150/"
+}, {
+    "name": "Hou lai de wo men",
+    "year": "2018",
+    "type": "Drama, Romance",
+    "rating": "7.4",
+    "director": "Rene Liu",
+    "actors": [
+        "Boran Jing",
+        "Dongyu Zhou",
+        "Zhuangzhuang Tian",
+        "Zheming Qu"
+    ],
+    "votes": "Error: please try again.",
+    "page_link": "https://www.imdb.com/title/tt8033592/"
+}
