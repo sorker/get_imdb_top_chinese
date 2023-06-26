@@ -139,7 +139,7 @@ def getscorebar(data):
     c = (
         Bar()
         .add_xaxis(df['片名'].values.tolist()[-20:])
-        .add_yaxis('评价人数', df['评价人数'].values.tolist()[-20:])
+        .add_yaxis('评价人数', df['评价人数'].values.tolist()[-20:]
         .reversal_axis()
         .set_global_opts(
             title_opts=opts.TitleOpts(title='电影评价人数'),
